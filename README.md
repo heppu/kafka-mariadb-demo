@@ -1,3 +1,5 @@
+# kafka-mariadb-demo
+
 ## Requirements
  - Go
  - MariaDB
